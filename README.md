@@ -1,5 +1,5 @@
-# 🇱🇰 Budget Speech 2025 Q&A Chatbot with NVIDIA NIM & LangChain 🤖
-![Alt text](imag10.png)
+# 🇱🇰 Budget Speech 2025 Q&A Chatbot with NVIDIA NIM&LangChain 🤖
+![Alt text](img10.png)
 This project is a Retrieval Augmented Generation (RAG) based Question & Answer chatbot designed to provide insights into Sri Lanka's Budget Speech 2025. It leverages NVIDIA NIM for powerful language model processing and LangChain for seamless integration and workflow management. 🚀
 
 ## Overview
