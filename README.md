@@ -17,6 +17,26 @@ This application allows users to ask questions related to the Sri Lanka Budget S
 -   **Streamlit UI:** User-friendly web interface for easy interaction.
 -   **Performance Tracking:** Measures and displays response time.
 
+## Demo images
+<table>
+    <th>Click to view the images</th>
+  <tr>
+    <td><img src="img1.png" alt="Image 1" width="400"></td>
+    <td><img src="img2.png" alt="Image 2" width="400"></td>
+    <td><img src="img3.png" alt="Image 3" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="img4.png" alt="Image 4" width="400"></td>
+    <td><img src="img5.png" alt="Image 5" width="400"></td>
+    <td><img src="img6.png" alt="Image 6" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="img7.png" alt="Image 7" width="400"></td>
+    <td><img src="img8.png" alt="Image 8" width="400"></td>
+    <td><img src="img9.png" alt="Image 9" width="400"></td>
+  </tr>
+</table>
+
 ## Technologies Used
 
 -   **Python:** Core programming language.
