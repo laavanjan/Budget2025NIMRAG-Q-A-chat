@@ -18,8 +18,8 @@ This application allows users to ask questions related to the Sri Lanka Budget S
 -   **Performance Tracking:** Measures and displays response time.
 
 ## Demo images
+**Click to view the images**
 <table>
-    <th>Click to view the images</th>
   <tr>
     <td><img src="img1.png" alt="Image 1" width="400"></td>
     <td><img src="img2.png" alt="Image 2" width="400"></td>
